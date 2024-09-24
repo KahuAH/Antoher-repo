@@ -10,10 +10,15 @@ namespace ConsoleApp1
        {
             Console.WriteLine("Hello my name is Kahu");
         }
+        public static void manish()
+        {
+
+            Console.WriteLine("manish here");
+        }
         public static void dip()
         {
 
-            Console.WriteLine("dip here");
+            Console.WriteLine("hii...! dip here");
         }
         static void Main(string[] args)
         {
